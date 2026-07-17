@@ -5,9 +5,9 @@
 
 ## **⚙️ Datos necesarios y obligatorios a completar.**
 
-* **APELLIDO, NOMBRE**:  
-* **COMISIÓN**:  
-* **DNI**:
+* **APELLIDO, NOMBRE**: Veron Gustavo
+* **COMISIÓN**: 3 
+* **DNI**: 36.900.959
 
 ## **📝 Consideraciones Iniciales y Criterio de Evaluación.**
 

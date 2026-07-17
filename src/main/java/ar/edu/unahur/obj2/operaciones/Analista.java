@@ -3,10 +3,14 @@ package ar.edu.unahur.obj2.operaciones;
 import java.util.ArrayList;
 import java.util.List;
 
+import ar.edu.unahur.obj2.operaciones.criterios.AnalistaNivel1;
+import ar.edu.unahur.obj2.operaciones.criterios.ICriterioTriaje;
+
 public class Analista {
 
     private final String legajo;
     private final List<Alerta> alertasProcesadas = new ArrayList<>();
+    private ICriterioTriaje criterio = new AnalistaNivel1();
 
 
     public Analista(String legajo) {

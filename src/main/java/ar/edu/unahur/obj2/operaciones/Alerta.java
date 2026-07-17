@@ -6,6 +6,7 @@ public class Alerta {
     private String codigoIdentificador;
     private String ipDeOrigen;
     private Integer severidadBase;
+    // Primera vez que pongo en practica el tipo Long porque al hablar de milisegundos lo crei conveniente.
     private Long tiempoDeteccion;
 
 
